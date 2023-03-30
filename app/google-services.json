@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284147122896",
+    "project_id": "cantinho-da-lele",
+    "storage_bucket": "cantinho-da-lele.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284147122896:android:d3263c158992a9aa6854d5",
+        "android_client_info": {
+          "package_name": "aulaandroidapi.com.br"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284147122896-i1f6h8egs500pr6g35uub08makc0cfgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv4wEM978GZS_8WX-8hlZ8JVHx2pmiRvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284147122896-i1f6h8egs500pr6g35uub08makc0cfgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
