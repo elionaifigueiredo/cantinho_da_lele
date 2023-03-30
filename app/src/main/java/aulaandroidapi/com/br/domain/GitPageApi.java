@@ -8,6 +8,6 @@ import retrofit2.http.GET;
 
 public interface GitPageApi {
 
-    @GET("piracuiapiupdate.json")
+    @GET("cantinhodaleleapi.json")
     Call<List<Loja>> getLoja();
 }

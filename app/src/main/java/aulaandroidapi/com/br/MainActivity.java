@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void conectaApi() {
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("https://elionaifigueiredo.github.io/apipiracui/")
+                .baseUrl("https://elionaifigueiredo.github.io/cantinho_da_lele/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
         myapi = retrofit.create(GitPageApi.class);
