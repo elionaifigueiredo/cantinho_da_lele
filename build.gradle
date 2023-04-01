@@ -6,5 +6,7 @@ plugins {
     // versao do firebase
     id 'com.google.gms.google-services' version '4.3.15' apply false
 
+    // crashlytics
+    id 'com.google.firebase.crashlytics' version '2.9.4' apply false
 }
 

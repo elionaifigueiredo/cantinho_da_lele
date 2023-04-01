@@ -24,6 +24,9 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends AppCompatActivity {
 
+
+
+
     private ActivityMainBinding binding;
     private GitPageApi myapi;
     private RecyclerView.Adapter LojaAdpater;
